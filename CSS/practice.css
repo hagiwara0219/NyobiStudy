@@ -1,0 +1,43 @@
+/* N予備用のCSS */
+
+/* 1-13 takes about CSS programing */
+
+body {
+    /* width: auto; */
+
+    background-color: bisque;
+}
+
+
+h1 {
+    border: dotted 5px;
+}
+
+header {
+    border: solid, 10px;
+    background-color: burlywood;
+}
+
+footer {
+    border: 5px;
+    background-color: coral;
+}
+
+/* 回転させるh1文字の表面の色 */
+.face {
+    color: red;
+    /* transform: rotateX(60deg); */
+}
+
+/* 回転の裏側の色 */
+.back {
+    color: red;
+    opacity: 0.2;
+}
+
+/* div {
+    border: solid red;
+    transform: translate(30px, 20px) rotate(60deg);
+    width: 100px;
+    height: 100px;
+} */

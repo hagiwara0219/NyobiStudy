@@ -1,0 +1,1 @@
+let moji = prompt('入力せよ');
