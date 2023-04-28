@@ -1,0 +1,7 @@
+ここにメモの学習内容を追記する
+
+
+let trueSample = 1 < 2;           // --> true
+let falseSample = 200 < 100;      // --> false
+console.log(typeof(trueSample));  // --> 'boolean'
+console.log(!trueSample);
